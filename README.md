@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora de Gorjetas </h1>
+<h1 align="center"> Botão de progresso </h1>
 
 <p align="center">
 Desenvolvido por Gustavo Medeiros. Esse projeto foi desenolvido para aplicar conhecimentos. 
