@@ -28,4 +28,4 @@ Desenvolvido para ser um botão de progresso, muito utilizado para finalizar com
 
 ## 🔖 Layout
 
-você pode visualizar cliclando nesse link a seguir: [Veja o projeto](https://progress-steps-3qnklpdoa-gustavwebcriador.vercel.app/)
+você pode visualizar cliclando nesse link a seguir: [Veja o projeto](https://progress-steps-opal.vercel.app/)
