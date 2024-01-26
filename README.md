@@ -14,11 +14,7 @@ Desenvolvido por Gustavo Medeiros. Esse projeto foi desenolvido para aplicar con
 <p align="center">
 </p>
 
-<br>
-<p align="center">
-<img alt="Image Ilustrativa" src="./image/finalizado.jpg" width="50%">
 
-</p>
 
 ## 🚀 Tecnologias
 
@@ -32,4 +28,4 @@ Desenvolvido para ser um botão de progresso, muito utilizado para finalizar com
 
 ## 🔖 Layout
 
-você pode visualizar cliclando nesse link a seguir: [Veja o projeto](https://calculadoragorjetas.vercel.app/)
+você pode visualizar cliclando nesse link a seguir: [Veja o projeto](https://progress-steps-3qnklpdoa-gustavwebcriador.vercel.app/)
